@@ -1,4 +1,4 @@
-def PROJECT='httpd'
+def PROJECT='java'
 def GIT_URL='git@github.com:flegrand/'+PROJECT+'.git'
 def REGISTRY_URL='registry.demo.cloudcontrolled.net/demo/'+PROJECT
 
