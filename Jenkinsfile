@@ -15,5 +15,5 @@ node {
         }
 
         // Launch dependant jobs
-        //build job: 'httpd/2.4', wait: false
+        build job: 'tomcat/8', wait: false
 }
